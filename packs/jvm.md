@@ -11,7 +11,7 @@
 
 ### Metrics
 
-| name      | unit | description        |
+|           | unit | description        |
 | --------- | ---- | ------------------ |
 | bananaput | bps  | Banana per seconds |
 | bananaput | bps  | Banana per seconds |
