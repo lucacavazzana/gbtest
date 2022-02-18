@@ -1,15 +1,13 @@
 # ☕ JVM
 
-## JVM Pack
-
-### Parameters
+## Parameters
 
 | name   | default | description       |
 | ------ | ------- | ----------------- |
 | gc     | 1       | Garbage collector |
 | toggle | on      | Toggle on/off     |
 
-### Metrics
+## Metrics
 
 |           | unit | description        |
 | --------- | ---- | ------------------ |

@@ -1,8 +1,6 @@
 # 🐧 Linux
 
-## Linux Pack
-
-### Parameters
+## Parameters
 
 
 
@@ -11,7 +9,7 @@
 | gc     | 1       | Garbage collector |
 | toggle | on      | Toggle on/off     |
 
-### Metrics
+## Metrics
 
 | name      | unit | description        |
 | --------- | ---- | ------------------ |
