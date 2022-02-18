@@ -1,8 +1,8 @@
 # Prerequisites
 
-## Prerequisites
+## Hardware Requirements
 
-Hardware Requirements The following table provides the hardware requirements for the virtual or physical machine used to install the product server.
+The following table provides the hardware requirements for the virtual or physical machine used to install the product server.
 
 | Resource   | Requirement     |
 | ---------- | --------------- |
