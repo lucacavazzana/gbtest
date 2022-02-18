@@ -4,6 +4,8 @@
 
 ### Parameters
 
+
+
 | name   | default | description       |
 | ------ | ------- | ----------------- |
 | gc     | 1       | Garbage collector |
@@ -16,4 +18,3 @@
 | bananaput | bps  | Banana per seconds |
 | bananaput | bps  | Banana per seconds |
 
-[ Previous](https://cvztest.readthedocs.io/en/stable/installing/installation.html)[Next ](https://cvztest.readthedocs.io/en/stable/packs/java.html)\
