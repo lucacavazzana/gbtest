@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Getting Started](README.md)
+* [Getting Started, but with v1](README.md)
 * [Installing](installing/README.md)
   * [Prerequisites](installing/prerequisites.md)
   * [Installation](installing/installation.md)
